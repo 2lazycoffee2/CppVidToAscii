@@ -1,0 +1,1 @@
+Ici, je propose un petit programme réalisé grâce à des tutoriels youtube. J'ai repris un code convertissant une image en ascii et, l'ai modifié pour que le filtre s'applique à un flux vidéo et, soit visible sur le terminal.
